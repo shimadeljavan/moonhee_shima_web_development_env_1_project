@@ -43,7 +43,7 @@
                         unde numquam? Ipsum et odit officia reiciendis optio, distinctio accusantium, quia. Molestias,
                         non molestiae.
                     </p>
-                    <a class="btn2" href="#">learn more</a>
+                    <a class="btn2" href="about.php">About Us</a>
                 </div>
             </div>
         </div>
