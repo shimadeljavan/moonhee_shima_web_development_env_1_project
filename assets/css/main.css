@@ -1,0 +1,302 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-family: 'Barlow', sans-serif;
+}
+
+.big-banner {
+    background: url(asstes/images/bg-img.jpg) rgba(0, 0, 0, 0.4);
+    background-blend-mode: overlay;
+    min-height: 100vh;
+    padding: 80px 0;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-box {
+    max-width: 700px;
+    text-align: center;
+    width: 90%;
+}
+
+.text-box h1 {
+    text-transform: capitalize;
+    font-family: 'Barlow', sans-serif;
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.text-box p {
+    font-size: 18;
+}
+
+.btn1 {
+    margin-top: 20px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: #30A2FF;
+    color: white;
+    text-transform: uppercase;
+    transition: .5s;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+}
+
+.btn1:hover {
+    background-color: white;
+    color: black;
+}
+
+.container {
+    max-width: 900px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about {
+    padding: 80px 0;
+}
+
+.about-flex {
+    display: flex;
+    text-align: center;
+    gap: 40px;
+}
+
+.left {
+    width: 50%;
+    background-image: url(assets/images/bg-img.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+
+.right {
+    width: 50%;
+    text-align: left;
+}
+
+.right h2 {
+    text-transform: capitalize;
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.bar {
+    background: blue;
+    width: 60px;
+    height: 3px;
+    margin-bottom: 20px;
+    transform: translateX(-5px);
+}
+
+.right p {
+    color: #8D7B68;
+    margin-bottom: 20px;
+}
+
+.btn2 {
+    margin-top: 20px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #30A2FF;
+    color: white;
+    text-transform: uppercase;
+    transition: .5s;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.btn2:hover {
+    background-color: white;
+    color: black;
+}
+
+.cta {
+    padding: 150px 0;
+    background: url(assets/images/bg-img.jpg) rgba(10, 38, 71, 90%);
+    background-blend-mode: overlay;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.cta h2 {
+    text-transform: capitalize;
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.cta p {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+}
+
+.btn3 {
+    margin-top: 20px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: orange;
+    color: white;
+    text-transform: uppercase;
+    transition: .5s;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.btn3:hover {
+    background-color: white;
+    color: black;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 992px) {
+
+    .big-banner {
+        padding: 60px 0;
+        min-height: 80vh;
+    }
+
+    .text-box h1 {
+        font-size: 30px;
+    }
+
+    .text-box p {
+        font-size: 14px;
+    }
+
+    .text-box {
+        max-width: 500px;
+    }
+
+    .about {
+        padding: 60px 0;
+    }
+
+    .about-flex {
+        gap: 20px;
+    }
+
+    .cta {
+        padding: 60px 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .big-banner {
+        padding: 40px 0;
+        min-height: 50vh;
+    }
+
+    .about {
+        padding: 40px 0;
+    }
+
+    .about-flex {
+        flex-direction: column;
+    }
+
+    .left,
+    .right {
+        width: 100%;
+    }
+
+    .cta {
+        padding: 40px 0;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+
+    .big-banner {
+        padding: 20px 0;
+        min-height: 40vh;
+    }
+
+    .big-banner h1 {
+        font-size: 20px;
+    }
+
+    .big-banner p {
+        font-size: 10px;
+    }
+
+    .btn1 {
+        margin-top: 10px;
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+
+    .about {
+        padding: 20px 0;
+    }
+
+    .left {
+        height: 100px;
+    }
+
+    .right {
+        text-align: center;
+    }
+
+    .right h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .right p {
+        font-size: 14px;
+    }
+
+    .btn2 {
+        margin-top: 10px;
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+
+    .bar {
+        width: 30px;
+        margin-bottom: 10px;
+        transform: translateX(70px);
+    }
+
+    .cta {
+        padding: 20px 0;
+    }
+
+    .cta h2 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .cta p {
+        font-weight: 100;
+    }
+
+    .btn3 {
+        margin-top: 10px;
+        padding: 5px 20px;
+        font-size: 12px;
+    }
+}
