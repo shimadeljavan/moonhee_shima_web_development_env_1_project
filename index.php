@@ -25,7 +25,7 @@
             <h1>enjoy the ocean with your family</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae nemo placeat ex nihil quidem earum odio
                 minima a quibusdam, repellend.</p>
-            <a class="btn1" href="about.php">About Us</a>
+            <a class="btn1" href="">Contact Us</a>
         </div>
     </section>
 
