@@ -19,7 +19,7 @@
     <header>
         <div class="row">
             <div class="col">
-                <img class="style-logo" src="images/logo-sm.png" alt="SM Logo">
+                <img class="style-logo" src="/assets/images/logo-sm.png" alt="SM Logo">
                 <nav class="style-nav">
                     <ul>
                         <li><a href="#">Home</a></li>
