@@ -7,9 +7,9 @@
 </head>
 
 <body>
-    <h1>Caontact Us</h1>
+    <h1>Contact Us</h1>
     <hr>
-    <p> shima.deljavan@gmail.com <br> moonhee.kim@gmail.com
+    <p> shima.deljavan@gmail.com <b> moonhee.kim@gmail.com
     </p>
 </body>
 
