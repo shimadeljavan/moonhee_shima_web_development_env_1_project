@@ -20,7 +20,7 @@
 
 <body>
 
-    <section class="big-banner">
+    <section class="big-banner" style="background-image: assets/images/a.jpg;">
         <div class="text-box">
             <h1>enjoy the ocean with your family</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae nemo placeat ex nihil quidem earum odio
