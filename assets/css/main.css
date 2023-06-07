@@ -76,7 +76,7 @@ p {
 
 .left {
     width: 50%;
-    background-image: url(assets/images/a.jpg);
+    image: url("https: //www.shutterstock.com/image-photo/sailboat-sea-evening-sunlight-over-260nw-717244969.jpg");
     background-size: cover;
     background-position: center;
     height: 300px;
