@@ -58,10 +58,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col col-md-one-half col-lg-one-fourth"><img src="images/gallery-1.jpg" alt=""></div>
-            <div class="col col-md-one-half col-lg-one-fourth"><img src="images/gallery-2.jpg" alt=""></div>
-            <div class="col col-md-one-half col-lg-one-fourth"><img src="images/gallery-3.jpg" alt=""></div>
-            <div class="col col-md-one-half col-lg-one-fourth"><img src="images/gallery-4.jpg" alt=""></div>
+            <div class="col col-md-one-half col-lg-one-fourth"><img src="/assets/images/gallery-1.jpg" alt=""></div>
+            <div class="col col-md-one-half col-lg-one-fourth"><img src="/assets/images/gallery-2.jpg" alt=""></div>
+            <div class="col col-md-one-half col-lg-one-fourth"><img src="assets/images/gallery-3.jpg" alt=""></div>
+            <div class="col col-md-one-half col-lg-one-fourth"><img src="assets/images/gallery-4.jpg" alt=""></div>
         </div>
     </main>
 
