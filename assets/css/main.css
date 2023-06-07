@@ -76,10 +76,18 @@ p {
 
 .left {
     width: 50%;
-    image: url("https: //www.shutterstock.com/image-photo/sailboat-sea-evening-sunlight-over-260nw-717244969.jpg");
+   /* image: url("assets/images/a.jpg");
     background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 300px;*/
+}
+
+.image-container {
+    width: 300px;
+    height: 200px;
+    background-image: url('assets/images/a.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 .right {
