@@ -14,7 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Rubik:wght@300&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="./assets/css/main.css">
     <title>Shima_Deljavan-03</title>
 </head>
 
