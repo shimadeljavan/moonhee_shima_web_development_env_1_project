@@ -9,8 +9,9 @@
 <body>
     <h1>Contact Us</h1>
     <hr>
-    <p> shima.deljavan@gmail.com <b> moonhee.kim@gmail.com
-    </p>
+    <h3> shima.deljavan@gmail.com <br>
+        moonhee.kim@gmail.com
+    </h3>
 </body>
 
 </html>
