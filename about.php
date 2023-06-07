@@ -10,7 +10,7 @@
     <h1>About US:</h1>
     <hr>
 
-    <img src="assets/images/a.jpg" alt="photo" height="20px" width="20px">
+    <img src="assets/images/a.jpg" alt="photo" height="80px" width="80px">
 
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br>
         Facilis asperiores, repellat, repellendus consequatur.
