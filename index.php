@@ -32,7 +32,7 @@
     <section class="about">
         <div class="container">
             <div class="about-flex">
-                <div class="left"></div>
+                <div class="left"> </div>
                 <div class="right">
                     <h2>welcome to our website</h2>
                     <div class="bar"></div>
