@@ -6,15 +6,9 @@
     <title>Home Page</title>
     <link rel="stylesheet" href="./assets/css/main.css">
 
-    <!-- <link rel="stylesheet" href="assets/css/home.css"> -->
-
 </head>
 
 <body>
-
-    <!-- <button><a href="index.php">Home Page</a></button> -->
-    <!-- <button><a href="about.php">About</a></button> -->
-    <!-- <button><a href="contact.php">Contact</a></button> -->
 
     <header>
         <div class="row">
@@ -35,8 +29,8 @@
         <div class="row">
             <div class="col">
                 <div class="hero">
-                    <h4>discover & connect with great places around the world</h4>
-                    <h1>Find your perfect place</h1>
+                    <h4>Discover & Connect with Great Places around the World</h4>
+                    <h1>Find Your Perfect Place</h1>
                     <a href="" class="button">Read More</a>
                 </div>
             </div>
@@ -44,15 +38,15 @@
         <div class="row">
             <div class="col col-md-one-half">
                 <div class="info-box-tan">
-                    <h2>Inspiring Reads</h2>
-                    <p>The future is in lightening our footprints and brightening our lives.</p>
+                    <h2>MOONHEE KIM</h2>
+                    <p>Web Designer <br><br> Works only on frontend HTML, CSS, Photoshop</p>
                     <a href="" class="button">Read More</a>
                 </div>
             </div>
             <div class="col col-md-one-half">
                 <div class="info-box-dark">
-                    <h2>Reflections</h2>
-                    <p>Stylish ways to bounce the heat off a roof and the planet.</p>
+                    <h2>Shima Deljavan Farshi</h2>
+                    <p>Web Designer <br><br> Works only on frontend HTML, CSS, PHP</p>
                     <a href="" class="button">Read More</a>
                 </div>
             </div>
