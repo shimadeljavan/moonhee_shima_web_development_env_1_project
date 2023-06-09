@@ -79,7 +79,7 @@ h2{
 	gap: 50px;
 }
 
-.banner .left{
+.left{
 	width: 50%;
 }
 
@@ -116,9 +116,9 @@ p{
 	color: white;
 }
 
-.banner .right{
+.right{
 	width: 50%;
-	background-image: url(/assets/images/vanier.jpg);
+	background-image: url(../images/vanier.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 500px;
