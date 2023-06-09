@@ -1,52 +1,52 @@
-*{
+* {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
 
-section{
+section {
 	padding: 100px 0;
 }
 
-body{
+body {
 	font-family: 'Poppins', sans-serif;
 	line-height: 1.2em;
 }
 
-img{
+img {
 	max-width: 100%;
 	display: block;
 }
 
-header{
+header {
 	background: white;
 }
 
-.container{
+.container {
 	max-width: 900px;
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.header-flex{
+.header-flex {
 	height: 80px;
 	display: flex;
 	justify-content: space-between;
-	align-items: center;	
+	align-items: center;
 }
 
-.logo{
+.logo {
 	width: 80px;
 }
 
-.nav-list{
+.nav-list {
 	list-style: none;
 	display: flex;
 	gap: 40px;
 }
 
-.nav-list a{
+.nav-list a {
 	display: inline-block;
 	text-decoration: none;
 	color: #1A120B;
@@ -54,14 +54,14 @@ header{
 	font-weight: 300;
 }
 
-h3{
+h3 {
 	font-family: 'Poltawski Nowy', serif;
 	font-size: 20px;
 	text-transform: capitalize;
 	margin-bottom: 20px;
 }
 
-h2{
+h2 {
 	font-family: 'Figtree', sans-serif;
 	font-size: 30px;
 	font-weight: 600;
@@ -70,22 +70,22 @@ h2{
 	text-transform: uppercase;
 }
 
-.banner{
+.banner {
 	background: #C2DEDC;
 }
 
-.banner-flex{
+.banner-flex {
 	display: flex;
 	gap: 50px;
 	align-items: center;
 
 }
 
-.banner .left{
+.banner .left {
 	width: 50%;
 }
 
-.divider{
+.divider {
 	display: inline-block;
 	width: 115px;
 	height: 2px;
@@ -94,7 +94,7 @@ h2{
 	background: #73A9AD;
 }
 
-.btn{
+.btn {
 	display: inline-block;
 	border: 2px solid #73A9AD;
 	color: #73A9AD;
@@ -105,16 +105,15 @@ h2{
 	border-radius: 6px;
 }
 
-.btn:hover{
+.btn:hover {
 	background: #73A9AD;
 	color: white;
 }
 
-.banner .right{
+.banner .right {
 	width: 50%;
 	background-image: url(/assets/images/gmail-logo-icon.png);
 	background-size: cover;
 	background-position: center;
 	height: 300px;
 }
-
