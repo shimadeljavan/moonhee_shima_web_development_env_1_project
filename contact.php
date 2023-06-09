@@ -8,7 +8,9 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@500&family=Poltawski+Nowy&family=Poppins:wght@300&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Figtree:wght@500&family=Poltawski+Nowy&family=Poppins:wght@300&display=swap"
+    rel="stylesheet">
 
   <link rel="stylesheet" type="text/css" href="./assets/css/contact.css">
 
@@ -19,7 +21,7 @@
     <div class="container">
       <div class="header-flex">
         <div class="logo">
-          <a href="#"><img src="images/logo-sm.png" alt="#"></a>
+          <a href="#"><img src="/assets/images/logo-sm.png" alt="#"></a>
         </div>
         <nav>
           <ul class="nav-list">
