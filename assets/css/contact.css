@@ -81,7 +81,7 @@ h2 {
 
 }
 
-.banner .left {
+.left {
 	width: 50%;
 }
 
@@ -110,7 +110,7 @@ h2 {
 	color: white;
 }
 
-.banner .right {
+.right {
 	width: 50%;
 	background-image: url('../images/a.png');
 	background-size: cover;
