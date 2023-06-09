@@ -8,9 +8,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Figtree:wght@500&family=Poltawski+Nowy&family=Poppins:wght@300&display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@500&family=Poltawski+Nowy&family=Poppins:wght@300&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" type="text/css" href="./assets/css/contact.css">
 
@@ -26,13 +24,13 @@
         <nav>
           <ul class="nav-list">
             <li>
-              <a href="index.php">Home</a>
+              <a href="">Home</a>
             </li>
             <li>
-              <a href="about.php">About</a>
+              <a href="">About</a>
             </li>
             <li>
-              <a href="#">Contact</a>
+              <a href="">Contact</a>
             </li>
           </ul>
         </nav>
