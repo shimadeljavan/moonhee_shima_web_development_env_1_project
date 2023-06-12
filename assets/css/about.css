@@ -118,7 +118,7 @@ p{
 
 .right{
 	width: 50%;
-	background-image: url('../images/vanier.jpg');
+	background-image: url("../images/vanier.jpg");
 	background-size: cover;
 	background-position: center;
 	height: 500px;
